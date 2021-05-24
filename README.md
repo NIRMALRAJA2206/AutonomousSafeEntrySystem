@@ -19,5 +19,5 @@ Detects if person wears a mask or not.
 Sanitize the person automatically
 
 ## Flow Diagram
-![FlowDiagram](https://user-images.githubusercontent.com/83937388/119305145-f579bb00-bc85-11eb-8de3-cc3628bfe165.jpeg)
+![ProcessFlowDiagram](https://user-images.githubusercontent.com/83937388/119306596-06c3c700-bc88-11eb-8bd7-74bd4ee0ef45.jpeg)
 
